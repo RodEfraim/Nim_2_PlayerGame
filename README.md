@@ -25,7 +25,7 @@ java Nim
 
 Example run of the game.
 
-<img width="336" alt="screen shot 2019-01-12 at 1 47 09 pm" src="https://user-images.githubusercontent.com/32502126/51078848-aad8e480-1670-11e9-8c0c-d76c5e7b44e5.png">
+<img width="530" alt="screen shot 2019-01-12 at 3 05 34 pm" src="https://user-images.githubusercontent.com/32502126/51079418-a36b0880-167b-11e9-8298-03dbe141e3d9.png">
 
 ## Authors
 
